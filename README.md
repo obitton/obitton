@@ -36,4 +36,4 @@ AI engineering, solutions architecture, forward deployed engineering, backend, s
 
 Python, TypeScript, Go, SQL. LangChain, MCP, RAG, agent tool-use. Postgres and pgvector, BigQuery, Pinecone. GCP, Azure, Docker, Cloud Run.
 
-Reach me at ofir-bitton@outlook.com.
+Reach me at ofir-bitton@outlook.com or on [LinkedIn](https://www.linkedin.com/in/ofir-bitton/).
