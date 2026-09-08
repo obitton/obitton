@@ -11,6 +11,8 @@ Most of what I build is client work, so it stays private. This profile is the sm
 | [opal-scene-search](https://github.com/obitton/opal-scene-search) | Semantic video scene search exposed as custom Optimizely Opal tools. Describe a moment in plain language, get the clip with timestamps and its license line. SigLIP embeddings over shot-level video, FastAPI, four registered agent tools. |
 | [sourdough](https://github.com/obitton/sourdough) | A seeded organization simulator. Generates a fictional startup's whole event history, then replays it on a timeline you can scrub to any date. |
 | [duvo-assessment](https://github.com/obitton/duvo-assessment) | An MCP server that does a category buyer's job: find products running short across stores, explain why, raise replenishment orders with a person approving. |
+| [knowledge-base](https://github.com/obitton/knowledge-base) | A local, citable knowledge base over saved content. FTS5 plus local ONNX embeddings fused with reciprocal rank fusion, served to Claude Code and Codex over MCP. Zero runtime dependencies, and a README that argues why there is no vector database. |
+| [RSJT](https://github.com/obitton/RSJT) | Operations tool for delegated repair jobs at my IT business. Expo app, Fastify API, Postgres with Drizzle, RepairShopr intake, technician updates, approvals, and payout reconciliation over Twilio. Rails first; the model comes later. |
 | [GrubEyes](https://github.com/obitton/GrubEyes) | Camera-first React Native app. Photograph your fridge, Gemini reads the ingredients, recipes come back respecting allergies and dislikes. |
 
 ## Open source
